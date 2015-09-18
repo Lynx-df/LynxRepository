@@ -1,2 +1,2 @@
 # LynxRepository
-A place of All my shit? idk man don't rly use github
+A place for the RedditScripts.
